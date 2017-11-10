@@ -43,3 +43,4 @@ df.orderBy("Sales").show()
 
 // Descending
 df.orderBy($"Sales".desc).show()
+df_1.withColumn("Month", month(df_1("Date"))).orderBy("Month").groupBy("Month").mean().select($"Month", $"avg(Close)").show()
