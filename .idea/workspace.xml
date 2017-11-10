@@ -2,106 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d3f6b44-365e-41b2-90d5-e89d1d423e3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning_Sections/playground/reg_1.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52a7d5565e06c5c7d66b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52a7d5565e06c5c7d66b$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52a7d5565e06c5c7d66b.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$52a7d5565e06c5c7d66b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$741cba26851944fdd297$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$741cba26851944fdd297$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$741cba26851944fdd297.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$741cba26851944fdd297.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8a25d04c32b6ec196c8d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8a25d04c32b6ec196c8d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8a25d04c32b6ec196c8d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8a25d04c32b6ec196c8d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ce3ffb87621ac7d7d0f2$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ce3ffb87621ac7d7d0f2$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ce3ffb87621ac7d7d0f2.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ce3ffb87621ac7d7d0f2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ede3bc9e8171819f5956$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ede3bc9e8171819f5956$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ede3bc9e8171819f5956$$anonfun$$sbtdef$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ede3bc9e8171819f5956$$anonfun$$sbtdef$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ede3bc9e8171819f5956$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ede3bc9e8171819f5956.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ede3bc9e8171819f5956.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/db.lck" afterPath="$PROJECT_DIR$/metastore_db/db.lck" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/log/log.ctrl" afterPath="$PROJECT_DIR$/metastore_db/log/log.ctrl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/log/log1.dat" afterPath="$PROJECT_DIR$/metastore_db/log/log1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning_Sections/Classification/classif_1.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/scala-and-spark-bootcamp-master.iml" afterPath="$PROJECT_DIR$/.idea/modules/scala-and-spark-bootcamp-master.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning_Sections/Regression/LinRegExercise.scala" afterPath="$PROJECT_DIR$/Machine_Learning_Sections/Regression/LinRegExercise.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/derby.log" afterPath="$PROJECT_DIR$/derby.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegProject.scala" afterPath="$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegProject.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject$sources_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject$sources_2.12/1.0/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject$sources_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject$sources_2.12/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject_2.12/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/myproject/myproject_2.12/1.0/resolved.xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-compile-internal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-compile.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-docs.xml" />
@@ -115,7 +24,21 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-sources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-test-internal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject$sources_2.12-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/myproject-myproject_2.12-test.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
     </list>
     <ignored path="Scala-and-Spark-Bootcamp.iws" />
@@ -150,13 +73,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Doc_LogReg.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/Doc_LogReg.scala">
+      <file leaf-file-name="LogRegExample.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="248">
+              <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="58" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#308#368#0" expanded="true" />
+                <element signature="e#1625#1719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classif_1.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/classif_1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+              <folding>
+                <element signature="e#1#61#0" expanded="true" />
+                <element signature="e#826#923#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogRegProject.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegProject.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1274#1314#0" expanded="true" />
+                <element signature="e#2999#3049#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogRegProject_Solutions.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegProject_Solutions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1451">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1264#1324#0" expanded="true" />
+                <element signature="e#2905#2999#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,6 +155,8 @@
         <option value="$PROJECT_DIR$/Spark_DataFrames/df_1.scala" />
         <option value="$PROJECT_DIR$/Machine_Learning_Sections/playground/reg_1.scala" />
         <option value="$PROJECT_DIR$/Machine_Learning_Sections/Regression/LinRegExercise.scala" />
+        <option value="$PROJECT_DIR$/Machine_Learning_Sections/Classification/classif_1.scala" />
+        <option value="$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegProject.scala" />
       </list>
     </option>
   </component>
@@ -550,7 +518,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1510287187436" />
+    <option name="lastUpdateTimestamp" value="1510304929508" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -609,7 +577,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2394196" sideWeight="0.49030694" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33131802" sideWeight="0.49030694" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22961374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -721,9 +689,9 @@
         <state relative-caret-position="-234">
           <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#202#256#0" expanded="true" />
-            <element signature="e#1423#1473#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#202#256#0" expanded="false" />
+            <element signature="e#1423#1473#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -733,8 +701,8 @@
         <state relative-caret-position="442">
           <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <element signature="e#698#748#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
+            <element signature="e#698#748#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -744,8 +712,8 @@
         <state relative-caret-position="475">
           <caret line="83" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
-            <element signature="e#1280#1330#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="false" />
+            <element signature="e#1280#1330#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,17 +723,82 @@
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/titanic.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/Doc_LogReg.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark_DataFrames/Dates_and_Timestamps.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="58" />
+          <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#308#368#0" expanded="true" />
+            <element signature="e#1625#1719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/classif_1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding>
+            <element signature="e#1#61#0" expanded="true" />
+            <element signature="e#826#923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegProject_Solutions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1451">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1264#1324#0" expanded="true" />
+            <element signature="e#2905#2999#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Sections/Classification/LogRegProject.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1274#1314#0" expanded="true" />
+            <element signature="e#2999#3049#0" expanded="true" />
           </folding>
         </state>
       </provider>
