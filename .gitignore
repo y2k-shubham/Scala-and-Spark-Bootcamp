@@ -29,3 +29,4 @@ project/plugins/project/
 lib_managed/
 src_managed/
 env.conf
+.idea/*
